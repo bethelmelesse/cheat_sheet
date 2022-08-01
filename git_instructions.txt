@@ -17,3 +17,7 @@ next time you make a change
 git add 
 git commit 
 git push
+
+
+when cloning 
+git clone url (url is from the github)
