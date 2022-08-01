@@ -4,4 +4,16 @@ go to the folder you want to push to github
 open terminal in that folder 
 git init
 git status 
+git add
+git commit ------ control x to exit after writing comment 
+git remote add origin git@github.com:bettymelesse/cheat_sheet.git       ".." can be changed
+git push --set-upstream origin master
 
+go back to github and refresh
+
+
+next time you make a change
+
+git add 
+git commit 
+git push
