@@ -1,0 +1,7 @@
+make a new repository on github
+go to the folder you want to push to github
+
+open terminal in that folder 
+git init
+git status 
+
