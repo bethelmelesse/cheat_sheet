@@ -1,0 +1,1 @@
+ctrl+shift+p (type fold all or unfold all)  -------- for wrapping and unwrapping everything in a file 
