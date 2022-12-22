@@ -1,1 +1,13 @@
-
+tldr                       to know about commands 
+more option of cd          check using tldr
+nvidia-smi                 about gpu processes, memory, utlization and gpu model
+ps [process_id]            details about a given process
+ps -aux                    show all the process
+ps -aux | grep [python]    show all python processes
+htop                       terminal task manager -- to exit q or control C
+watch [some command]       run the command every two seconds and show the output
+ls -a                      to show hidden file 
+ls -lh                     to see file size 
+tree                       make a tree of files and folders 
+cat [filename]             to see the content of file in terminal
+kill [process_id]          to kill process 
