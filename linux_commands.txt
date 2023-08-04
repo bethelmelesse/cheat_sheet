@@ -11,3 +11,4 @@ ls -lh                     to see file size
 tree                       make a tree of files and folders 
 cat [filename]             to see the content of file in terminal
 kill [process_id]          to kill process 
+tar -czvf archive.tar.gz /path/to/files              compress file to archive.tar.gz
